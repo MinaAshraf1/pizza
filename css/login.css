@@ -227,7 +227,7 @@ body {
     body {
         background-image: url("../img/bgsmall.jpg");
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: auto auto;
         margin: 0px;
         padding: 0px;
     }
